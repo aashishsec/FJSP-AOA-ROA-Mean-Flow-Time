@@ -1,6 +1,6 @@
 # FJSP AOA ROA Mean Flow Time
 
-<h2>Solving flexible job-shop scheduling problem to minimize mean flow time using arithmetic optimization algorithm and rao-1 algorithm.</h2>
+<h3>Solving flexible job-shop scheduling problem to minimize mean flow time using arithmetic optimization algorithm and rao-1 algorithm.</h3>
 
 # Arithematic Optimization Alogorithm
 
